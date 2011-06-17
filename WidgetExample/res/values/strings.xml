@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">This screen is a simple placeholder, and will be shown whenever the user clicks on the widget.  In a real application, this would show detailed information..</string>
+    <string name="app_name">Widget Example</string>
+    <string name="buttontxt">Click Me!</string>
+    <string name="widget1name">8-bit cloud 1</string>
+    <string name="widget1txt">Widget 1</string>
+</resources>

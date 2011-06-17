@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:minWidth="294dp"
+    android:minHeight="72dp"
+    android:updatePeriodMillis="10000"
+    android:initialLayout="@layout/widget1"
+    >
+</appwidget-provider>
+<!-- 
+    android:configure="com.example.android.ExampleAppWidgetConfigure" 
+  The following attributes are specified in the android docs, but are not valid in 2.2 (API level 8),  previewImage was
+  introduced in Android 3.0
+  
+ android:previewImage="@drawable/preview"  
+ android:resizeMode="horizontal|vertical" -->
