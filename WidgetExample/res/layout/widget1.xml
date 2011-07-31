@@ -7,7 +7,7 @@
   android:gravity="center"
   android:layout_margin="4dp"
   android:background="@drawable/background">
-    <TextView android:id="@+id/widget1label" android:text="@string/widget1txt" android:layout_height="wrap_content" android:textAppearance="?android:attr/textAppearanceLarge" android:layout_width="wrap_content"/>
+    <TextView android:id="@+id/widget1label" android:text="@string/widget1txt" android:layout_height="wrap_content" android:layout_width="wrap_content"/>
     <Button android:text="@string/buttontxt" android:id="@+id/button" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
     
 </LinearLayout>

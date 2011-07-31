@@ -4,5 +4,10 @@
     <string name="app_name">Widget Example</string>
     <string name="buttontxt">Click Me!</string>
     <string name="widget1name">8-bit cloud 1</string>
-    <string name="widget1txt">Widget 1</string>
+    <string name="widget1txt">Fetching Tweets...</string>
+    <string name="local_service_started">Twitter Fetcher Running</string>
+    <string name="local_service_label">label me whatever you will</string>
+    <string name="configure_label">Twitter Username:</string>
+    <string name="configure_createButton">Create Widget</string>
+    <string name="configure_title">Configure Example Widget</string>
 </resources>
